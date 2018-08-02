@@ -1,5 +1,5 @@
-Multiple Quotation Handler v11
-==============================
+Multiple Quotation Handler
+==========================
 In some business flows, We need to sent multiple quotations for the same customers, they choose the best for them.
 The clients will require negotiations whenever we sent a quotation, or need to change the products with best price.
 In such cases we overcome with this Multiple Quotations.
